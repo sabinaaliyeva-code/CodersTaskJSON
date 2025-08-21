@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">        
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Task API Documentation</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+    <link rel="stylesheet" href="style.css">
+
+</head>
+<body>
+    
+<header>
+    
+<div id="logo">
+    <img src="https://www.calvinklein.us/on/demandware.static/-/Sites-PVHCKUS-Library/default/dwa0e4bc21/logo/CK-logo-Dark.svg">
+    </div>
+    <div>
+      <input type="text" placeholder="search">
+      </div>
+      <div class="user-menu">
+      <button class="Login">Log in</button>
+    <div class="cart-wrapper">
+      
+      <span id="itemCount" class="cart-item"><i class="bi bi-cart">0</i></span>
+  </div>
+</div>
+    </header>
+    <div>
+    <div class="items">
+  <div class="search-filter">
+    <select id="categoryFilter" class="filter-select">
+      <option value="all">Clothes</option>
+      <option value="Women">Women</option>
+      <option value="Men">Men</option>
+      <option value="Children">Children</option>
+      <option value="Shoes">Shoes</option>
+      <option value="Accessories">Accessories</option>
+    </select>
+  </div>
+
+  <div class="filters">
+    <label><input type="radio" name="category" value="all" checked>Clothes</label>
+    <label><input type="radio" name="category" value="Women">Women</label>
+    <label><input type="radio" name="category" value="Men">Men</label>
+    <label><input type="radio" name="category" value="Children">Children</label>
+    <label><input type="radio" name="category" value="Shoes">Shoes</label>
+    <label><input type="radio" name="category" value="Accessories"> Accessories</label>
+  </div>
+    <div id="productList" class="product-list"></div>
+</div>
+</div>
+   <div class="main-content">
+        <section class="product-slider">
+            <div class="product">
+              <h2>Products</h2>
+                <div class="product-container" id="productContainer"></div>
+            </div>
+        </section>
+    </div>
+    <footer>
+        @copy2025
+    </footer>
+    <script src="app.js"></script>
+</body>
+</html>

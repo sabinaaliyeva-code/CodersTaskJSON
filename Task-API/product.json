@@ -1,0 +1,270 @@
+[
+  {
+    "id": 1,
+    "title": "SNEAKERS – V2 Brand",
+    "price": 50,
+    "category": "Shoes",
+    "variants": [
+      { "color": "Blue", "image": "https://cdn.pixabay.com/photo/2014/06/18/18/42/running-shoe-371625_1280.jpg" },
+      { "color": "Red", "image": "https://cdn.pixabay.com/photo/2014/06/18/18/41/running-shoe-371624_1280.jpg" }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "PINKO Quilted Shoulder Bag",
+    "price": 60,
+    "category": "Accessories",
+    "variants": [
+      { "color": "Black", "image": "https://gr.benetton.com/dw/image/v2/BBSF_PRD/on/demandware.static/-/Sites-ucb-master/default/dw3a4b2fae/images/Full_PDP_h/01_25P_6QTUDY073_100_FS.jpg?sw=2400&sh=1800" },
+      { "color": "White", "image": "https://cdn-images.farfetch-contents.com/19/36/29/98/19362998_43425689_600.jpg" }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Children's Jeans Girl Overalls Denim Pants",
+    "price": 30,
+    "category": "Children",
+    "variants": [
+      { "color": "Blue", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFd3wbNvY02Sb23uVxAbObavYFoXw18EfXOQ&s" }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Cotton Childrens Trousers ",
+    "price": 35,
+    "category": "Children",
+    "variants": [
+      { "color": "Green", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhyNMfJF7SJM5pEin31E1CDUVoFmVBasoaog&s" },
+      { "color": "Black", "image": "https://res.cloudinary.com/agnesb-group/image/upload/w_1200,f_auto,q_auto/v1697693763/CMC/Products/Y928UW03_000_1.jpg" }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Skirt",
+    "price": 40,
+    "category": "Women",
+    "variants": [
+      { "color": "Yellow", "image": "https://i.pinimg.com/736x/af/2a/71/af2a71363acf028e95cb63c7e7eb1164.jpg" }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Blank Heavyweight T-shirt Natural 275 GSM",
+    "price": 45,
+    "category": "Men",
+    "variants": [
+      { "color": "White", "image": "https://www.houseofblanks.com/cdn/shop/files/HeavyweightTshirt_Natural_02.jpg?v=1726516460&width=1946" },
+      { "color": "Blue", "image": "https://chriscross.in/cdn/shop/files/ChrisCrossRoyalblueCottontshirtmen.jpg?v=1740994595" }
+    ]
+  },
+  {
+    "id": 7,
+    "title": "The Travel Backpack",
+    "price": 20,
+    "category": "Accessories",
+    "variants": [
+      { "color": "Black", "image": "https://ca.beistravel.com/cdn/shop/files/Beis_Backpack_Black_1556.jpg?v=1717707437&width=1946" },
+      { "color": "Beige", "image": "https://ca.beistravel.com/cdn/shop/files/Beis_Backpack_Beige_1548.jpg?v=1717707421&width=1946" }
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Huitan Minimalist Women's Wedding Rings with 4MM Cubic Zirconia Simple Elegant Female Finger",
+    "price": 22,
+    "category": "Accessories",
+    "variants": [
+      { "color": "Gold", "image": "https://ae01.alicdn.com/kf/S114958bd8066475994c58fdafe233348s.jpg" }
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Fashionable Necklaces | Office Wear Necklaces  Salty Accessories",
+    "price": 55,
+    "category": "Accessories",
+    "variants": [
+      { "color": "Silver", "image": "https://salty.co.in/cdn/shop/products/Hyacinth4-pcsZirconHeartMagneticCloverNecklace-RoseGold.jpg?v=1709706852&width=1080"}
+    ]
+  },
+  {
+    "id": 10,
+    "title": "SNEAKERS – V2 Brand",
+    "price": 50,
+    "category": "Shoes",
+    "variants": [
+      { "color": "Blue", "image": "https://cdn.pixabay.com/photo/2014/06/18/18/42/running-shoe-371625_1280.jpg" },
+      { "color": "Red", "image": "https://cdn.pixabay.com/photo/2014/06/18/18/41/running-shoe-371624_1280.jpg" }
+    ]
+  },
+  {
+    "id": 11,
+    "title": "PINKO Quilted Shoulder Bag",
+    "price": 60,
+    "category": "Accessories",
+    "variants": [
+      { "color": "Black", "image": "https://gr.benetton.com/dw/image/v2/BBSF_PRD/on/demandware.static/-/Sites-ucb-master/default/dw3a4b2fae/images/Full_PDP_h/01_25P_6QTUDY073_100_FS.jpg?sw=2400&sh=1800" },
+      { "color": "White", "image": "https://cdn-images.farfetch-contents.com/19/36/29/98/19362998_43425689_600.jpg" }
+    ]
+  },
+  {
+    "id": 12,
+    "title": "Children's Jeans Girl Overalls Denim Pants",
+    "price": 30,
+    "category": "Children",
+    "variants": [
+      { "color": "Blue", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFd3wbNvY02Sb23uVxAbObavYFoXw18EfXOQ&s" }
+    ]
+  },
+  {
+    "id": 13,
+    "title": "Cotton Childrens Trousers ",
+    "price": 35,
+    "category": "Children",
+    "variants": [
+      { "color": "Green", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhyNMfJF7SJM5pEin31E1CDUVoFmVBasoaog&s" },
+      { "color": "Black", "image": "https://res.cloudinary.com/agnesb-group/image/upload/w_1200,f_auto,q_auto/v1697693763/CMC/Products/Y928UW03_000_1.jpg" }
+    ]
+  },
+  {
+    "id": 14,
+    "title": "Skirt",
+    "price": 40,
+    "category": "Women",
+    "variants": [
+      { "color": "Yellow", "image": "https://i.pinimg.com/736x/af/2a/71/af2a71363acf028e95cb63c7e7eb1164.jpg" }
+    ]
+  },
+  {
+    "id": 15,
+    "title": "Blank Heavyweight T-shirt Natural 275 GSM",
+    "price": 45,
+    "category": "Men",
+    "variants": [
+      { "color": "White", "image": "https://www.houseofblanks.com/cdn/shop/files/HeavyweightTshirt_Natural_02.jpg?v=1726516460&width=1946" },
+      { "color": "Blue", "image": "https://chriscross.in/cdn/shop/files/ChrisCrossRoyalblueCottontshirtmen.jpg?v=1740994595" }
+    ]
+  },
+  {
+    "id": 16,
+    "title": "The Travel Backpack",
+    "price": 20,
+    "category": "Accessories",
+    "variants": [
+      { "color": "Black", "image": "https://ca.beistravel.com/cdn/shop/files/Beis_Backpack_Black_1556.jpg?v=1717707437&width=1946" },
+      { "color": "Beige", "image": "https://ca.beistravel.com/cdn/shop/files/Beis_Backpack_Beige_1548.jpg?v=1717707421&width=1946" }
+    ]
+  },
+  {
+    "id": 17,
+    "title": "Huitan Minimalist Women's Wedding Rings with 4MM Cubic Zirconia Simple Elegant Female Finger",
+    "price": 22,
+    "category": "Accessories",
+    "variants": [
+      { "color": "Gold", "image": "https://ae01.alicdn.com/kf/S114958bd8066475994c58fdafe233348s.jpg" }
+    ]
+  },
+  {
+    "id": 18,
+    "title": "Fashionable Necklaces | Office Wear Necklaces  Salty Accessories",
+    "price": 55,
+    "category": "Accessories",
+    "variants": [
+      { "color": "Silver", "image": "https://salty.co.in/cdn/shop/products/Hyacinth4-pcsZirconHeartMagneticCloverNecklace-RoseGold.jpg?v=1709706852&width=1080"}
+    ]
+  },
+  {
+    "id": 19,
+    "title": "SNEAKERS – V2 Brand",
+    "price": 50,
+    "category": "Shoes",
+    "variants": [
+      { "color": "Blue", "image": "https://cdn.pixabay.com/photo/2014/06/18/18/42/running-shoe-371625_1280.jpg" },
+      { "color": "Red", "image": "https://cdn.pixabay.com/photo/2014/06/18/18/41/running-shoe-371624_1280.jpg" }
+    ]
+  },
+  {
+    "id": 20,
+    "title": "PINKO Quilted Shoulder Bag",
+    "price": 60,
+    "category": "Accessories",
+    "variants": [
+      { "color": "Black", "image": "https://gr.benetton.com/dw/image/v2/BBSF_PRD/on/demandware.static/-/Sites-ucb-master/default/dw3a4b2fae/images/Full_PDP_h/01_25P_6QTUDY073_100_FS.jpg?sw=2400&sh=1800" },
+      { "color": "White", "image": "https://cdn-images.farfetch-contents.com/19/36/29/98/19362998_43425689_600.jpg" }
+    ]
+  },
+  {
+    "id": 21,
+    "title": "Children's Jeans Girl Overalls Denim Pants",
+    "price": 30,
+    "category": "Children",
+    "variants": [
+      { "color": "Blue", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFd3wbNvY02Sb23uVxAbObavYFoXw18EfXOQ&s" }
+    ]
+  },
+  {
+    "id": 22,
+    "title": "Cotton Childrens Trousers ",
+    "price": 35,
+    "category": "Children",
+    "variants": [
+      { "color": "Green", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhyNMfJF7SJM5pEin31E1CDUVoFmVBasoaog&s" },
+      { "color": "Black", "image": "https://res.cloudinary.com/agnesb-group/image/upload/w_1200,f_auto,q_auto/v1697693763/CMC/Products/Y928UW03_000_1.jpg" }
+    ]
+  },
+  {
+    "id": 23,
+    "title": "Skirt",
+    "price": 40,
+    "category": "Women",
+    "variants": [
+      { "color": "Yellow", "image": "https://i.pinimg.com/736x/af/2a/71/af2a71363acf028e95cb63c7e7eb1164.jpg" }
+    ]
+  },
+  {
+    "id": 24,
+    "title": "Blank Heavyweight T-shirt Natural 275 GSM",
+    "price": 45,
+    "category": "Men",
+    "variants": [
+      { "color": "White", "image": "https://www.houseofblanks.com/cdn/shop/files/HeavyweightTshirt_Natural_02.jpg?v=1726516460&width=1946" },
+      { "color": "Blue", "image": "https://chriscross.in/cdn/shop/files/ChrisCrossRoyalblueCottontshirtmen.jpg?v=1740994595" }
+    ]
+  },
+  {
+    "id": 25,
+    "title": "The Travel Backpack",
+    "price": 20,
+    "category": "Accessories",
+    "variants": [
+      { "color": "Black", "image": "https://ca.beistravel.com/cdn/shop/files/Beis_Backpack_Black_1556.jpg?v=1717707437&width=1946" },
+      { "color": "Beige", "image": "https://ca.beistravel.com/cdn/shop/files/Beis_Backpack_Beige_1548.jpg?v=1717707421&width=1946" }
+    ]
+  },
+  {
+    "id": 26,
+    "title": "Huitan Minimalist Women's Wedding Rings with 4MM Cubic Zirconia Simple Elegant Female Finger",
+    "price": 22,
+    "category": "Accessories",
+    "variants": [
+      { "color": "Gold", "image": "https://ae01.alicdn.com/kf/S114958bd8066475994c58fdafe233348s.jpg" }
+    ]
+  },
+  {
+    "id": 27,
+    "title": "Fashionable Necklaces | Office Wear Necklaces  Salty Accessories",
+    "price": 55,
+    "category": "Accessories",
+    "variants": [
+      { "color": "Silver", "image": "https://salty.co.in/cdn/shop/products/Hyacinth4-pcsZirconHeartMagneticCloverNecklace-RoseGold.jpg?v=1709706852&width=1080"}
+    ]
+  },
+  {
+    "id": 28,
+    "title": "Summer hat",
+    "price": 60,
+    "category": "Accessories",
+    "variants": [
+      { "color": "Pink", "image": "https://helloquality.co.za/cdn/shop/files/Summerhat_4.jpg?v=1721159282&width=990" },
+      { "color": "Brown", "image": "https://helloquality.co.za/cdn/shop/files/Summerhat_6.jpg?v=1721159282&width=990" }
+    ]
+  }
+]
